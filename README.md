@@ -1,5 +1,5 @@
 # Drunken Shenanigans
-Drunken Stories
-Blackout Pictures
-Party Fouls
-Beer Towers
+p Drunken Stories
+p Blackout Pictures
+p Party Fouls
+p Beer Towers
